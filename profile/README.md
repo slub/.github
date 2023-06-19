@@ -1,2 +1,2 @@
 # SLUB Open Source projects
-[More informations](https://www.slub-dresden.de/mitmachen/open-source-open-data)
+[More information](https://www.slub-dresden.de/en/participate/open-source-open-data)
